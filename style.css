@@ -2,18 +2,6 @@
     border-radius: 25px;
 }
 
-.collll {
-    position: relative;
-}
-
-.hot-details {
-    position: absolute;
+.zindex {
     z-index: 100;
-    margin-top: -30px;
-    left: 37%;
-    background-color: #FF4E4E;
-    padding: 10px 30px;
-    border-radius: 90px;
-    font-weight: 700;
-    color: #fff;
 }
